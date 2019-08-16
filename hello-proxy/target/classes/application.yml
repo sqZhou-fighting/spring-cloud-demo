@@ -1,0 +1,12 @@
+server:
+  port: 8072
+
+spring:
+  application:
+    name: helloProxy
+
+eureka:
+  client:
+    register-with-eureka: false
+    service-url:
+      defaultZone: http://172.16.24.195:7001/eureka

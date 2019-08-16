@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hello-client/hello-client.iml" filepath="$PROJECT_DIR$/hello-client/hello-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-eureka/hello-eureka.iml" filepath="$PROJECT_DIR$/hello-eureka/hello-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-proxy/hello-proxy.iml" filepath="$PROJECT_DIR$/hello-proxy/hello-proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-service/hello-service.iml" filepath="$PROJECT_DIR$/hello-service/hello-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-service-8002/hello-service-8002.iml" filepath="$PROJECT_DIR$/hello-service-8002/hello-service-8002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-service-8003/hello-service-8003.iml" filepath="$PROJECT_DIR$/hello-service-8003/hello-service-8003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-service-eureka-7001/hello-service-eureka-7001.iml" filepath="$PROJECT_DIR$/hello-service-eureka-7001/hello-service-eureka-7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-service-eureka-7002/hello-service-eureka-7002.iml" filepath="$PROJECT_DIR$/hello-service-eureka-7002/hello-service-eureka-7002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-service-eureka-7003/hello-service-eureka-7003.iml" filepath="$PROJECT_DIR$/hello-service-eureka-7003/hello-service-eureka-7003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-demo.iml" filepath="$PROJECT_DIR$/spring-cloud-demo.iml" />
+    </modules>
+  </component>
+</project>
